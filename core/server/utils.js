@@ -3,6 +3,7 @@ exports.about = function(){
 }
 
 exports.urlRequestManage = function(relPath){
-    var tmp = relPath.split('?');
-    return tmp[0];
+	var tmp = relPath.split('?');
+	console.log(tmp[1]);
+	return tmp[0];
 } 

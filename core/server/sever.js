@@ -17,8 +17,8 @@ http.createServer(function (req, res) {
                 console.log('file not exists');   
             }
         });
-    }else if( utils.urlRequestManage(file) === 'doSomething' ){
-            res.end('vaiiiii');
+    }else if( utils.urlRequestManage(file) === 'run_new_song' ){
+            res.end('run new song!');
     }
     console.log(utils.urlRequestManage(file));
 }).listen(1337, '192.168.0.12'); 
