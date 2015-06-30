@@ -13,12 +13,12 @@ router.get('/home', function(req, res, next) {
 });
 
 /* GET home page. */
-router.get('/home/songYT/*', function(req, res, next) {
+router.get('/home/songYT/:id', function(req, res, next) {
 	var sys = require('sys')
 	var exec = require('child_process').exec;
 	function puts(error, stdout, stderr) { sys.puts(stdout) }
-	//exec("perl public/core/runVLC/CleanYT.pl", puts);
-	exec("perl public/core/runVLC/RunVLC.pl https://www.youtube.com/watch?v=kXk8LGZENMw", puts);
+	var tmp = req.path.split('/');
+	exec("perl public/core/runVLC/RunVLC.pl https://www.youtube.com/watch?v="+tmp[3], puts);
 	res.redirect('/home');
 });
 
