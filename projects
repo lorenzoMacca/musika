@@ -21,7 +21,14 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=6
+FILE_NAME_0=767;Javascript;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2Fmusika%2FMusikaWebApp%2Fapp.js;0;4
+FILE_NAME_1=100;None;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2Fmusika%2FMusikaWebApp%2Fviews%2Findex.jade;0;4
+FILE_NAME_2=862;HTML;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2Fmusika%2FMusikaWebApp%2Froutes%2Fpages%2Findex.html;0;4
+FILE_NAME_3=0;Perl;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2Fmusika%2FMusikaWebApp%2Fpublic%2Fcore%2FrunVLC%2FRunVLC.pl;0;4
+FILE_NAME_4=215;Perl;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2Fmusika%2FMusikaWebApp%2Fpublic%2Fcore%2FrunVLC%2FCleanYT.pl;0;4
+FILE_NAME_5=58340;None;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2FTEST%2Fresults%3Fsearch_query%3DYOUTUBE%2BAPI%2BSEARCH%2B;0;4
+FILE_NAME_6=351;Perl;0;EUTF-8;1;1;0;%2Fhome%2Florenzo%2FDevelop%2FTEST%2Fterminator.pl;0;4
 
 [VTE]
 last_dir=/home/lorenzo
