@@ -1,0 +1,1205 @@
+  <!DOCTYPE html><html lang="de" data-cast-api-enabled="true"><head><style name="www-roboto">@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v15/zN7GBFwfMP4uA6AR0HCoLQ.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v15/W4wDsBUluyw0tK3tykhXEfesZW2xOQ-xsNqO47m55DA.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Medium'),local('Roboto-Medium'),url(//fonts.gstatic.com/s/roboto/v15/RxZJdnzeo3R5zSexge8UUaCWcynf_cDxXwCLxiixG1c.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:italic;font-weight:700;src:local('Roboto Medium Italic'),local('Roboto-MediumItalic'),url(//fonts.gstatic.com/s/roboto/v15/OLffGBTaF0XFOW1gnuHF0Z0EAVxt0G0biEntp43Qt6E.ttf)format('truetype');}</style><script name="www-roboto">if (document.fonts && document.fonts.load) {document.fonts.load("400 10pt Roboto", "D");document.fonts.load("700 10pt Roboto", "D");}</script><script>var ytcsi = {gt: function(n) {n = (n || '') + 'data_';return ytcsi[n] || (ytcsi[n] = {tick: {},span: {},info: {}});},tick: function(l, t, n) {ytcsi.gt(n).tick[l] = t || +new Date();},span: function(l, s, e, n) {ytcsi.gt(n).span[l] = (e ? e : +new Date()) - ytcsi.gt(n).tick[s];},setSpan: function(l, s, n) {ytcsi.gt(n).span[l] = s;},info: function(k, v, n) {ytcsi.gt(n).info[k] = v;},setStart: function(s, t, n) {ytcsi.info('yt_sts', s, n);ytcsi.tick('_start', t, n);}};(function(w, d) {ytcsi.perf = w.performance || w.mozPerformance ||w.msPerformance || w.webkitPerformance;ytcsi.setStart('dhs', ytcsi.perf ? ytcsi.perf.timing.responseStart : null);var isPrerender = (d.visibilityState || d.webkitVisibilityState) == 'prerender';var vName = d.webkitVisibilityState ? 'webkitvisibilitychange' : 'visibilitychange';if (isPrerender) {ytcsi.info('prerender', 1);var startTick = function() {ytcsi.setStart('dhs');d.removeEventListener(vName, startTick);};d.addEventListener(vName, startTick, false);}if (d.addEventListener) {d.addEventListener(vName, function() {ytcsi.tick('vc');}, false);}})(window, document);</script><script>var ytcfg = {d: function() {return (window.yt && yt.config_) || ytcfg.data_ || (ytcfg.data_ = {});},get: function(k, o) {return (k in ytcfg.d()) ? ytcfg.d()[k] : o;},set: function() {var a = arguments;if (a.length > 1) {ytcfg.d()[a[0]] = a[1];} else {for (var k in a[0]) {ytcfg.d()[k] = a[0][k];}}}};</script>  <script>
+    ytcfg.set("EXP_LACT_MOUSE", true);
+    ytcfg.set("EXP_LACT_RESIZE", true);
+    ytcfg.set("EXP_LACT_SCROLL", true);
+  </script>
+  
+  
+
+
+
+
+  <script>
+        (function(){var b={h:"content-snap-width-1",j:"content-snap-width-2",l:"content-snap-width-3",f:"content-snap-width-skinny-mode"};function g(){var a=[],c;for(c in b)a.push(b[c]);return a}function h(a){var c=g().concat(["guide-pinned","show-guide"]),e=c.length,f=[];a.replace(/\S+/g,function(a){for(var d=0;d<e;d++)if(a==c[d])return;f.push(a)});return f};function l(a,c,e){var f=document.getElementsByTagName("html")[0],k=h(f.className);a&&1251<=(window.innerWidth||document.documentElement.clientWidth)&&(k.push("guide-pinned"),c&&k.push("show-guide"));if(e){e=window.innerWidth||document.documentElement.clientWidth;var d=e-21-50;1251<=(window.innerWidth||document.documentElement.clientWidth)&&a&&c&&(d-=230);k.push(640>=e?"content-snap-width-skinny-mode":1262<=d?"content-snap-width-3":1056<=d?"content-snap-width-2":"content-snap-width-1")}f.className=
+k.join(" ")}var m=["yt","www","masthead","sizing","runBeforeBodyIsReady"],n=this;m[0]in n||!n.execScript||n.execScript("var "+m[0]);for(var p;m.length&&(p=m.shift());)m.length||void 0===l?n[p]?n=n[p]:n=n[p]={}:n[p]=l;})();
+
+      try {window.ytbuffer = {};ytbuffer.handleClick = function(e) {var element = e.target || e.srcElement;while (element.parentElement) {if (/(^| )yt-can-buffer( |$)/.test(element.className)) {window.ytbuffer = {bufferedClick: e};element.className += ' yt-is-buffered';break;}element = element.parentElement;}};if (document.addEventListener) {document.addEventListener('click', ytbuffer.handleClick);} else {document.attachEvent('onclick', ytbuffer.handleClick);}} catch(e) {}
+
+    yt.www.masthead.sizing.runBeforeBodyIsReady(true,true,false);
+  </script>
+
+      <script src="//s.ytimg.com/yts/jsbin/www-scheduler-vflBoNZS8/www-scheduler.js" type="text/javascript" name="www-scheduler/www-scheduler"></script>
+
+
+  
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-core-vflba_URR.css" name="www-core">
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-pageframe-vfld1ZWf3.css" name="www-pageframe">
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-guide-vflk3-ju4.css" name="www-guide">
+  
+
+    
+<title>nadal federer - YouTube</title><link rel="search" type="application/opensearchdescription+xml" href="http://www.youtube.com/opensearch?locale=de_DE" title="YouTube-Videosuche"><link rel="shortcut icon" href="https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico" type="image/x-icon">     <link rel="icon" href="//s.ytimg.com/yts/img/favicon_32-vfl8NGn4k.png" sizes="32x32"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_48-vfl1s0rGh.png" sizes="48x48"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_96-vfldSA3ca.png" sizes="96x96"><link rel="icon" href="//s.ytimg.com/yts/img/favicon_144-vflWmzoXw.png" sizes="144x144"><link rel="alternate" media="handheld" href="https://m.youtube.com/results?search_query=nadal+federer"><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.youtube.com/results?search_query=nadal+federer"><meta name="description" content="Zeige deine Videos deinen Freunden, Familienmitgliedern und der ganzen Welt."><meta name="keywords" content="Video, E-Mail, Kamerahandy, Videohandy, kostenlos, hochladen">    <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-results-vflW5Z95Q.css" name="www-results">
+
+</head>
+    <body dir="ltr" id="body" class="  ltr    exp-searchbox-redesign   site-center-aligned site-as-giant-card guide-pinning-enabled appbar-hidden     not-nirvana-dogfood  not-yt-legacy-css    delayed-frame-styles-not-in  " data-spf-name="other">
+
+  <div id="early-body">  
+</div>
+  <div id="body-container"><div id="a11y-announcements-container" role="alert"><div id="a11y-announcements-message"></div></div><form name="logoutForm" method="POST" action="/logout"><input type="hidden" name="action_logout" value="1"></form><div id="masthead-positioner">  
+  <div id="yt-masthead-container" class="clearfix yt-base-gutter">  <button id="a11y-skip-nav" class="skip-nav" data-target-id="main" tabindex="3">
+Navigation überspringen
+  </button>
+<div id="yt-masthead"><div class="yt-masthead-logo-container ">    <a id="logo-container" href="/" title="YouTube-Startseite" class=" spf-link  masthead-logo-renderer yt-uix-sessionlink" data-sessionlink="ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCgQsV4"><span class="logo masthead-logo-renderer-logo yt-sprite"></span><span class="content-region">DE</span></a>
+  <div id="appbar-guide-button-container">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-text yt-uix-button-empty yt-uix-button-has-icon appbar-guide-toggle appbar-guide-clickable-ancestor" type="button" onclick=";return false;" id="appbar-guide-button" aria-label="Übersicht" aria-controls="appbar-guide-menu"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-appbar-guide yt-sprite"></span></span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+    <div id="appbar-guide-button-notification-check" class="yt-valign">
+      <span class="appbar-guide-notification-icon yt-valign-content yt-sprite"></span>
+    </div>
+  </div>
+  <div id="appbar-main-guide-notification-container"></div>
+</div><div id="yt-masthead-signin"><a href="//www.youtube.com/upload" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=mhsb&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" id="upload-btn"><span class="yt-uix-button-content">Hochladen</span></a><div class="signin-container "><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-primary" type="button" onclick=";window.location.href=this.getAttribute(&#39;href&#39;);return false;" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;hl=de&amp;service=youtube&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26feature%3Dsign_in_button%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3D%252Fresults%253Fsearch_query%253Dnadal%252Bfederer" role="link"><span class="yt-uix-button-content">Anmelden</span></button></div></div><div id="yt-masthead-content"><form id="masthead-search" class="search-form consolidated-form" action="/results" onsubmit="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false;" data-clicktracking="CCcQ7VA"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-opacity search-btn-component search-button search-button-with-input " type="submit" onclick="if (document.getElementById(&#39;masthead-search-term&#39;).value == &#39;&#39;) return false; document.getElementById(&#39;masthead-search&#39;).submit(); return false;;return true;" tabindex="2" id="search-btn" dir="ltr"><span class="yt-uix-button-content">Suchen</span></button><div id="masthead-search-terms" class="masthead-search-terms-border" dir="ltr"><input id="masthead-search-term" autocomplete="off"  onkeydown="if (!this.value &amp;&amp; (event.keyCode == 40 || event.keyCode == 32 || event.keyCode == 34)) {this.onkeydown = null; this.blur();}" class="search-term masthead-search-renderer-input yt-uix-form-input-bidi" name="search_query" value="nadal federer" type="text" tabindex="1" placeholder="YouTube durchsuchen…" title="Suchen"></div></form></div></div></div>
+    <div id="masthead-appbar-container" class="clearfix"><div id="masthead-appbar"><div id="appbar-content" class=""></div></div></div>
+
+</div><div id="masthead-positioner-height-offset"></div><div id="page-container"><div id="page" class="  search  branded-page-v2-secondary-column-wide  no-flex clearfix"><div id="guide" class="yt-scrollbar">      <div id="appbar-guide-menu" class="appbar-menu appbar-guide-menu-layout appbar-guide-clickable-ancestor yt-uix-scroller" role="navigation">
+    <div id="guide-container">
+        <div class="guide-module-content yt-scrollbar">
+    <ul class="guide-toplevel">
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="what_to_watch-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/"
+    title="Empfohlene Videos"
+    data-sessionlink="feature=g-system&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CBwQtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="what_to_watch"
+    data-serialized-endpoint="0qDduQEREg9GRXdoYXRfdG9fd2F0Y2g%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-what-to-watch-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Empfohlene Videos
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+          <h3>
+      Das Beste auf YouTube
+    </h3>
+
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCK274iXLZhs8MFGLsncOyZQ-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCK274iXLZhs8MFGLsncOyZQ"
+    title="Beliebt auf YouTube"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CB4QtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="UCK274iXLZhs8MFGLsncOyZQ"
+    data-serialized-endpoint="0qDduQEaEhhVQ0syNzRpWExaaHM4TUZHTHNuY095WlE%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/K274iXLZhs8MFGLsncOyZQ/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Beliebt auf YouTube
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCEgdi0XIXXZ-qJOFPf4JSKw-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"
+    title="Sport"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CB8QtSwoAQ"
+    data-visibility-tracking=""
+    data-external-id="UCEgdi0XIXXZ-qJOFPf4JSKw"
+    data-serialized-endpoint="0qDduQEaEhhVQ0VnZGkwWElYWFotcUpPRlBmNEpTS3c%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/Egdi0XIXXZ-qJOFPf4JSKw/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Sport
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCOpNcN46UbXVtpKMrmU4Abg-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCOpNcN46UbXVtpKMrmU4Abg"
+    title="Spiele"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCAQtSwoAg"
+    data-visibility-tracking=""
+    data-external-id="UCOpNcN46UbXVtpKMrmU4Abg"
+    data-serialized-endpoint="0qDduQEaEhhVQ09wTmNONDZVYlhWdHBLTXJtVTRBYmc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/OpNcN46UbXVtpKMrmU4Abg/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Spiele
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCYfdidRxbB8Qhf0Nx7ioOYw-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCYfdidRxbB8Qhf0Nx7ioOYw"
+    title="Nachrichten"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCEQtSwoAw"
+    data-visibility-tracking=""
+    data-external-id="UCYfdidRxbB8Qhf0Nx7ioOYw"
+    data-serialized-endpoint="0qDduQEaEhhVQ1lmZGlkUnhiQjhRaGYwTng3aW9PWXc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/YfdidRxbB8Qhf0Nx7ioOYw/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Nachrichten
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UC4R8DWoMoI7CAwX8_LjQHig-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UC4R8DWoMoI7CAwX8_LjQHig"
+    title="Live"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCIQtSwoBA"
+    data-visibility-tracking=""
+    data-external-id="UC4R8DWoMoI7CAwX8_LjQHig"
+    data-serialized-endpoint="0qDduQEaEhhVQzRSOERXb01vSTdDQXdYOF9MalFIaWc%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/4R8DWoMoI7CAwX8_LjQHig/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            Live
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="UCzuqhhs6NWbgTzMuM09WKDQ-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   "
+    href="/channel/UCzuqhhs6NWbgTzMuM09WKDQ"
+    title="360°-Video"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCMQtSwoBQ"
+    data-visibility-tracking=""
+    data-external-id="UCzuqhhs6NWbgTzMuM09WKDQ"
+    data-serialized-endpoint="0qDduQEaEhhVQ3p1cWhoczZOV2JnVHpNdU0wOVdLRFE%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" height="20" width="20" aria-hidden="true" data-thumb="//i.ytimg.com/i/zuqhhs6NWbgTzMuM09WKDQ/1.jpg" alt="" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            360°-Video
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section vve-check"
+    data-visibility-tracking="">
+    <div class="guide-item-container personal-item">
+      
+      <ul class="guide-user-links yt-uix-tdl yt-box" role="menu">
+              <li class="vve-check guide-channel guide-notification-item overflowable-list-item " id="guide_builder-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="/channels"
+    title="Kanäle finden"
+    data-sessionlink="feature=g-manage&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CCUQtSwoAA"
+    data-visibility-tracking=""
+    data-external-id="guide_builder"
+    data-serialized-endpoint="0qPduQECCAE%3D"
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-builder-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            Kanäle finden
+          </span>
+        </span>
+    </span>
+  </a>
+
+  </li>
+
+      </ul>
+    </div>
+      <hr class="guide-section-separator">
+  </li>
+
+            <li class="guide-section guide-header signup-promo">
+    <p>
+      Melde dich an, um deine Kanäle und Empfehlungen anzusehen.
+    </p>
+    <div id="guide-builder-promo-buttons" class="signed-out clearfix">
+      <a href="https://accounts.google.com/ServiceLogin?uilel=3&amp;hl=de&amp;service=youtube&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26feature%3Dsign_in_promo%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3D%252Fresults%253Fsearch_query%253Dnadal%252Bfederer" class="yt-uix-button   yt-uix-sessionlink yt-uix-button-primary yt-uix-button-size-default" data-sessionlink="ei=Z7iWVdSNAuW6iQa6-IHQCg"><span class="yt-uix-button-content">Anmelden</span></a>
+    </div>
+  </li>
+
+    </ul>
+  </div>
+
+    </div>
+  </div>
+  <div id="appbar-guide-notifications" class="hid">
+        <div id="appbar-guide-notification-watch-later-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Zur Liste "Später ansehen" hinzugefügt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-watch-later-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Aus "Später ansehen" entfernt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-subscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Abo hinzugefügt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-unsubscription">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Abo entfernt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Playlist gespeichert</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Playlist entfernt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-added">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Zur Playlist hinzugefügt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-playlist-video-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Aus Wiedergabeliste entfernt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-like">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Zu positiv bewerteten Videos hinzugefügt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-video-unlike">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Aus positiv bewerteten Videos entfernt</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-set">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Du wirst für diese Veranstaltung eine Erinnerung erhalten.</span></span></div>
+    -->
+  </div>
+
+
+    <div id="appbar-guide-notification-event-reminder-removed">
+    <!--
+    <div class="appbar-guide-notification " role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" >Veranstaltungserinnerung entfernt</span></span></div>
+    -->
+  </div>
+
+
+  </div>
+  <div id="appbar-guide-item-templates" class="hid">
+        <div id="appbar-guide-item-template-playlist">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="feature=g-playlists&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-playlists-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Playlist gespeichert">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-mix">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="feature=g-playlists&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb guide-mix-icon yt-sprite"></span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Playlist gespeichert">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+    <div id="appbar-guide-item-template-channel">
+      <!--
+          <li class="vve-check guide-channel guide-notification-item overflowable-list-item show-insertion-notification " id="__ID__-guide-item"
+      data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-nolink   "
+    href="__URL__"
+    title="__TITLE__"
+    data-sessionlink="feature=g-channel&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg"
+    data-visibility-tracking=""
+    data-external-id="__ID__"
+    data-serialized-endpoint=""
+  >
+    <span class="yt-valign-container">
+        <span class="thumb">  <span class="video-thumb  yt-thumb yt-thumb-20"
+    >
+    <span class="yt-thumb-square">
+      <span class="yt-thumb-clip">
+        <img src="__THUMBNAIL_URL__" width="20" height="20" alt="" aria-hidden="true" >
+        <span class="vertical-align"></span>
+      </span>
+    </span>
+  </span>
+</span>
+        <span class="display-name  no-count">
+          <span>
+            __TITLE__
+          </span>
+        </span>
+    </span>
+  </a>
+
+      <div class="appbar-guide-notification guide-item-insertion-notification" role="alert"><span class="appbar-guide-notification-content-wrapper yt-valign"><span class="appbar-guide-notification-icon yt-sprite"></span><span class="appbar-guide-notification-text-content" aria-label="Abo hinzugefügt">__NOTIFICATION_OVERLAY_MESSAGE__</span></span></div>
+  </li>
+
+      -->
+    </div>
+
+  </div>
+
+</div><div class="alerts-wrapper"><div id="alerts" class="content-alignment">    <div class="yt-alert yt-alert-default yt-alert-info  " id="yt-lang-alert-container">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message">
+            Wähle deine Sprache aus.
+
+    </div>
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Schließen" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Schließen</span></button></div><div class="yt-alert-panel ">  <div id="yt-lang-alert-content" class="clearfix">
+    <div class="yt-lang-alert-controls">
+      <a href="//support.google.com/youtube/answer/1738660?hl=en">Learn more</a><br>
+        <a href="javascript:void(0)" onclick="yt.style.toggle('default-language-message', 'default-language-message-english'); return false;">View this message in English</a>
+    </div>
+    <div id="default-language-message">
+Du siehst YouTube auf <strong>Deutsch</strong>.
+Du kannst <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">diese Einstellung unten ändern</a>.
+    </div>
+    <div id="default-language-message-english" class="hid">
+      You're viewing YouTube in <strong>German</strong>.
+        You can <a href="javascript:void(0)" onclick="yt.www.picker.displayLang();">change this preference below</a>.
+    </div>
+  </div>
+</div></div>
+
+</div></div><div id="header">  
+</div><div id="player" class="  off-screen  " role="complementary"><div id="theater-background" class="player-height"></div>  <div id="player-mole-container">
+    <div id="player-unavailable" class="  hid  ">
+      
+    </div>
+
+    <div id="player-api" class="player-width player-height off-screen-target player-api" tabIndex="-1"></div>
+        <script>if (window.ytcsi) {window.ytcsi.tick("cfg", null, '');}</script>
+    <script>var ytplayer = ytplayer || {};ytplayer.config = {"args":{"apiary_host":"","autoplay":"0","innertube_api_key":"AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8","cr":"DE","fflags":"autoplay_less_click_target=false\u0026ui_logging=false\u0026enable_audio_cast=true\u0026legacy_poster_behavior=true\u0026player_legacy_behavior=true","legacy_behavior":"1","ssl":"1","clipboard_swf":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflCB26A5\/clipboard_polyfill.swf","enablejsapi":1,"fexp":"901816,9407141,9407642,9408142,9408212,9408420,9408710,9409218,9410705,9412928,9415469,9416126,9416293,9416729,9417116,952640","host_language":"de","innertube_context_client_version":"20150629","apiary_host_firstparty":"","c":"WEB","hl":"de_DE","player_error_log_fraction":"1.0","gapi_hint_params":"m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.6zwg_pEP_2A.O\/m=__features__\/am=AAQ\/rt=j\/d=1\/rs=AItRSTNy-00ELgURzlKy-V-78pEvv5BpHA","innertube_api_version":"v1"},"sts":16609,"min_version":"8.0.0","html5":true,"assets":{"css":"\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflK0fqIG.css","js":"\/\/s.ytimg.com\/yts\/jsbin\/html5player-de_DE-vfl2Wj5ej\/html5player.js"},"url_v8":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflCB26A5\/cps.swf","url_v9as2":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflCB26A5\/cps.swf","attrs":{"id":"movie_player"},"params":{"allowfullscreen":"true","allowscriptaccess":"always","bgcolor":"#000000"},"url":"https:\/\/s.ytimg.com\/yts\/swfbin\/player-vflCB26A5\/watch_as3.swf","messages":{"player_fallback":["Für die Videowiedergabe ist entweder der Adobe Flash Player oder ein Browser mit HTML5-Kompatibilität erforderlich. \u003ca href=\"http:\/\/get.adobe.com\/flashplayer\/\"\u003eAktuellen Flash Player herunterladen \u003c\/a\u003e \u003ca href=\"\/html5\"\u003eWeitere Informationen zum Upgrade auf einen HTML5-Browser\u003c\/a\u003e"]}};ytplayer.load = function() {yt.player.Application.create("player-api", ytplayer.config);ytplayer.config.loaded = true;};</script>
+
+
+    <div id="watch-queue-mole" class="video-mole mole-collapsed hid"><div id="watch-queue" class="watch-playlist player-height"><div class="main-content"><div class="watch-queue-header"><div class="watch-queue-info"><div class="watch-queue-info-icon"><span class="tv-queue-list-icon yt-sprite"></span></div><h3 class="watch-queue-title">Wiedergabeliste</h3><h3 class="tv-queue-title">TV-Wiedergabeliste</h3><span class="tv-queue-details"></span></div><div class="watch-queue-control-bar control-bar-button"><div class="watch-queue-mole-info"><div class="watch-queue-control-bar-icon"><span class="watch-queue-icon yt-sprite"></span></div><div class="watch-queue-title-container"><span class="watch-queue-count"></span><span class="watch-queue-title">Wiedergabeliste</span><span class="tv-queue-title">TV-Wiedergabeliste</span></div></div>  <span class="dark-overflow-action-menu">
+    
+    
+    <button aria-expanded="false" type="button" class="flip control-bar-button yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" aria-label="Aktionen für die Wiedergabeliste" aria-haspopup="true" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid" role="menu" aria-haspopup="true"><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="remove-all" onclick=";return false;" >Alle entfernen</span></li><li role="menuitem"><span class="watch-queue-menu-choice overflow-menu-choice yt-uix-button-menu-item" data-action="disconnect" onclick=";return false;" >Beenden</span></li></ul></button>
+  </span>
+  <div class="watch-queue-controls">
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button prev-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Vorheriges Video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-prev yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button play-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Wiedergeben"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-play yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button pause-watch-queue-button yt-uix-button-opacity yt-uix-tooltip hid yt-uix-tooltip" type="button" onclick=";return false;" title="Pausieren"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-pause yt-sprite"></span></span></button>
+
+    <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-empty yt-uix-button-has-icon control-bar-button next-watch-queue-button yt-uix-button-opacity yt-uix-tooltip yt-uix-tooltip" type="button" onclick=";return false;" title="Nächstes Video"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-watch-queue-next yt-sprite"></span></span></button>
+  </div>
+</div></div><div class="watch-queue-items-container yt-scrollbar-dark yt-scrollbar"><ol class="watch-queue-items-list playlist-videos-list yt-uix-scroller" data-scroll-action="yt.www.watchqueue.loadThumbnails">  <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+</ol></div></div>  <div class="hid">
+    <div id="watch-queue-title-msg">
+Wiedergabeliste
+    </div>
+
+    <div id="tv-queue-title-msg">
+TV-Wiedergabeliste
+    </div>
+
+    <div id="watch-queue-count-msg">
+__count__/__total__
+    </div>
+
+    <div id="watch-queue-loading-template">
+      <!--
+          <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+
+      -->
+    </div>
+  </div>
+</div></div>
+
+    <div id="player-playlist" class="  hid  ">
+      
+    </div>
+
+  </div>
+
+  <div class="clear"></div>
+</div><div id="content" class="  content-alignment" role="main">
+
+
+  <div class="branded-page-v2-container branded-page-base-bold-titles branded-page-v2-container-flex-width" >
+
+    <div class="branded-page-v2-col-container">
+      <div class="branded-page-v2-col-container-inner">
+        <div class="branded-page-v2-primary-col">
+          <div class="   yt-card  clearfix">
+                <div class="branded-page-v2-primary-col-header-container branded-page-v2-primary-column-content">
+      
+    </div>
+  <div class="branded-page-v2-body branded-page-v2-primary-column-content" id="">
+        
+        <noscript>
+      <div class="yt-alert yt-alert-default yt-alert-error  ">  <div class="yt-alert-icon">
+    <span class="icon master-sprite yt-sprite"></span>
+  </div>
+<div class="yt-alert-content" role="alert">    <div class="yt-alert-message">
+            Hallo, bei dir scheint JavaScript deaktiviert zu sein. Aktiviere es, damit du die Suchergebnisse richtig anzeigen kannst.
+    </div>
+</div><div class="yt-alert-buttons"><button class="yt-uix-button yt-uix-button-size-default yt-uix-button-close close yt-uix-close" type="button" onclick=";return false;" aria-label="Schließen" data-close-parent-class="yt-alert"><span class="yt-uix-button-content">Schließen</span></button></div></div>
+
+  </noscript>
+
+
+  <div class="search-header yt-uix-expander yt-uix-expander-collapsed">
+      <div class="filter-top">
+    <div class="filter-bar-container">
+      <div class="filter-button-container">
+        <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default filter-button yt-uix-expander-head" type="button" onclick=";return false;" aria-label="Suchfilter" data-button-menu-id="some-nonexistent-menu" data-button-action="" data-button-toggle="true"><span class="yt-uix-button-content">Filter</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+      </div>
+      <div class="filter-crumb-spacer"></div>
+      <p class="num-results first-focus">Etwa <strong>198.000</strong> Ergebnisse</p>
+    </div>
+  </div>
+
+    <div id="filter-dropdown" class="yt-uix-expander-body"><div class="filter-col"><h4 class="filter-col-title">Hochladedatum</h4><ul><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=hour&amp;lclk=hour&amp;search_query=nadal+federer" title="Nach nadal federer, Last hour suchen" aria-label="Filtern nach Letzte Stunde" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Letzte Stunde</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=today&amp;lclk=today&amp;search_query=nadal+federer" title="Nach nadal federer, Today suchen" aria-label="Filtern nach Heute" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Heute</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=week&amp;lclk=week&amp;search_query=nadal+federer" title="Nach nadal federer, This week suchen" aria-label="Filtern nach Diese Woche" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Diese Woche</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=month&amp;lclk=month&amp;search_query=nadal+federer" title="Nach nadal federer, This month suchen" aria-label="Filtern nach Dieser Monat" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Dieser Monat</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=year&amp;lclk=year&amp;search_query=nadal+federer" title="Nach nadal federer, This year suchen" aria-label="Filtern nach Dieses Jahr" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Dieses Jahr</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Typ</h4><ul><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=video&amp;lclk=video&amp;search_query=nadal+federer" title="Nach nadal federer, Video suchen" aria-label="Filtern nach Video" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Video</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=channel&amp;lclk=channel&amp;search_query=nadal+federer" title="Nach nadal federer, Channel suchen" aria-label="Filtern nach Kanal" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Kanal</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=playlist&amp;lclk=playlist&amp;search_query=nadal+federer" title="Nach nadal federer, Playlist suchen" aria-label="Filtern nach Playlist" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Playlist</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=movie&amp;lclk=movie&amp;search_query=nadal+federer" title="Nach nadal federer, Movie suchen" aria-label="Filtern nach Film" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Film</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=show&amp;lclk=show&amp;search_query=nadal+federer" title="Nach nadal federer, Show suchen" aria-label="Filtern nach Sendung" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Sendung</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Dauer</h4><ul><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=short&amp;lclk=short&amp;search_query=nadal+federer" title="Nach nadal federer, Short (&lt; 4 minutes) suchen" aria-label="Filtern nach Kurz (&lt; 4 Minuten)" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Kurz (&lt; 4 Minuten)</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=long&amp;lclk=long&amp;search_query=nadal+federer" title="Nach nadal federer, Long (&gt; 20 minutes) suchen" aria-label="Filtern nach Lang (&gt; 20 Minuten)" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Lang (&gt; 20 Minuten)</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Eigenschaften</h4><ul><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=4k&amp;lclk=4k&amp;search_query=nadal+federer" title="Nach nadal federer, 4K suchen" aria-label="Filtern nach 4K" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">4K</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=hd&amp;lclk=hd&amp;search_query=nadal+federer" title="Nach nadal federer, HD suchen" aria-label="Filtern nach HD" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">HD</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=cc&amp;lclk=cc&amp;search_query=nadal+federer" title="Nach nadal federer, Subtitles/CC suchen" aria-label="Filtern nach Untertitel/CC" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Untertitel/CC</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=creativecommons&amp;lclk=creativecommons&amp;search_query=nadal+federer" title="Nach nadal federer, Creative Commons suchen" aria-label="Filtern nach Creative Commons" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Creative Commons</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=3d&amp;lclk=3d&amp;search_query=nadal+federer" title="Nach nadal federer, 3D suchen" aria-label="Filtern nach 3D" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">3D</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=live&amp;lclk=live&amp;search_query=nadal+federer" title="Nach nadal federer, Live suchen" aria-label="Filtern nach Live" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Live</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=purchased&amp;lclk=purchased&amp;search_query=nadal+federer" title="Nach nadal federer, Purchased suchen" aria-label="Filtern nach Gekauft" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">Gekauft</span></a>
+</li><li>
+
+  <a class="filter  spf-link  yt-uix-sessionlink " href="/results?filters=spherical&amp;lclk=spherical&amp;search_query=nadal+federer" title="Nach nadal federer, 360° suchen" aria-label="Filtern nach 360°" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text filter-ghost">360°</span></a>
+</li></ul></div><div class="filter-col"><h4 class="filter-col-title">Sortieren nach</h4><ul><li>
+
+  <span class="filter filter-sort  spf-link  filter-selected"  title="Relevanz" if#><span class="filter-text" aria-label="Ausgewählt: Sortieren nach Relevanz">Relevanz</span></span>
+</li><li>
+
+  <a class="filter filter-sort  spf-link  yt-uix-sessionlink " href="/results?search_sort=video_date_uploaded&amp;search_query=nadal+federer" title="Hochladedatum" aria-label="Sortieren nach Hochladedatum" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text ">Hochladedatum</span></a>
+</li><li>
+
+  <a class="filter filter-sort  spf-link  yt-uix-sessionlink " href="/results?search_sort=video_view_count&amp;search_query=nadal+federer" title="Anzahl der Aufrufe" aria-label="Sortieren nach Anzahl der Aufrufe" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text ">Anzahl der Aufrufe</span></a>
+</li><li>
+
+  <a class="filter filter-sort  spf-link  yt-uix-sessionlink " href="/results?search_sort=video_avg_rating&amp;search_query=nadal+federer" title="Bewertung" aria-label="Sortieren nach Bewertung" data-sessionlink="feature=search-filter&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" ><span class="filter-text ">Bewertung</span></a>
+</li></ul></div></div>
+  </div>
+  <div id="results">
+    
+
+
+
+      
+<ol id="section-list-206418" class="section-list">
+<li>
+<ol id="item-section-033694" class="item-section">
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="vvhrtiS0lwU" data-visibility-tracking="CBgQ3DAYACITCJTdiPqwv8YCFWVdwgodOnwAqij0JECFrtKl4vaa_L4B"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=vvhrtiS0lwU" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBgQ3DAYACITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/vvhrtiS0lwU/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">14:25</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="vvhrtiS0lwU"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="vvhrtiS0lwU"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="vvhrtiS0lwU"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="vvhrtiS0lwU" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=vvhrtiS0lwU" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBgQ3DAYACITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Nadal vs Federer, Australian Open 2014 (1/2 Finale), highlights HD - Semi Final - 24/01/14" aria-describedby="description-id-28197" rel="spf-prefetch" dir="ltr">Nadal vs Federer, Australian Open 2014 (1/2 Finale), highlights HD - Semi Final - 24/01/14</a><span class="accessible-description" id="description-id-28197"> - Dauer: 14:25</span></h3><div class="yt-lockup-byline">von <a href="/user/NadalPower" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UC2YAKEuxoH1fJyQLq7-RD4g" data-sessionlink="itct=CBgQ3DAYACITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Nadal Power</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 1 Jahr</li><li>376.902 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Rafael <b>Nadal</b> beats Roger <b>Federer</b> (7-6, 6-3, 6-3) in the Semi Final of the Australian Open 2014. Watch the highlights. Rafael ...</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="-1yfWb0-jqQ" data-visibility-tracking="CBcQ3DAYASITCJTdiPqwv8YCFWVdwgodOnwAqij0JECknfrpm-unrvsB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=-1yfWb0-jqQ" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBcQ3DAYASITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/-1yfWb0-jqQ/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">27:56</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="-1yfWb0-jqQ"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="-1yfWb0-jqQ"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="-1yfWb0-jqQ"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="-1yfWb0-jqQ" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=-1yfWb0-jqQ" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBcQ3DAYASITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer vs Nadal Wimbledon 2008 Highlights [HQ]" aria-describedby="description-id-432061" rel="spf-prefetch" dir="ltr">Federer vs Nadal Wimbledon 2008 Highlights [HQ]</a><span class="accessible-description" id="description-id-432061"> - Dauer: 27:56</span></h3><div class="yt-lockup-byline">von <a href="/user/TennisRFMexico" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCQxmD1cdAQ8WLTOi633vi0Q" data-sessionlink="itct=CBcQ3DAYASITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Carlos Rochin</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>554.010 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">THE TITLES SAYS IT ALL ENJOY (:</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="94xyOpETYYs" data-visibility-tracking="CBYQ3DAYAiITCJTdiPqwv8YCFWVdwgodOnwAqij0JECLw82IqcecxvcB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=94xyOpETYYs" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBYQ3DAYAiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/94xyOpETYYs/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">3:18</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="94xyOpETYYs"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="94xyOpETYYs"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="94xyOpETYYs"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="94xyOpETYYs" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=94xyOpETYYs" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBYQ3DAYAiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer and Nadal: Fit of Laughter During Shooting" aria-describedby="description-id-803159" rel="spf-prefetch" dir="ltr">Federer and Nadal: Fit of Laughter During Shooting</a><span class="accessible-description" id="description-id-803159"> - Dauer: 3:18</span></h3><div class="yt-lockup-byline">von <a href="/user/creditsuissevideos" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCZmFGmZ0IzqFSOtrVj8Gh6w" data-sessionlink="itct=CBYQ3DAYAiITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Credit Suisse</a>&nbsp;<span class="yt-uix-tooltip yt-channel-title-icon-verified yt-sprite" title="Bestätigt"></span></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>7.342.564 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Roger <b>Federer</b> and Rafael <b>Nadal</b>, the world&#39;s No. 2 and No.1 tennis players, are arch rivals on the courts, but friends outside of the ...</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="KkI4FpZDQcc" data-visibility-tracking="CBUQ3DAYAyITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDHg42y6YKOoSo="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=KkI4FpZDQcc" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBUQ3DAYAyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/KkI4FpZDQcc/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">15:01</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="KkI4FpZDQcc"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="KkI4FpZDQcc"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="KkI4FpZDQcc"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="KkI4FpZDQcc" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=KkI4FpZDQcc" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBUQ3DAYAyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Roger Federer vs Rafael Nadal Australian Open 2009 Final 1080p Highlights" aria-describedby="description-id-260535" rel="spf-prefetch" dir="ltr">Roger Federer vs Rafael Nadal Australian Open 2009 Final 1080p Highlights</a><span class="accessible-description" id="description-id-260535"> - Dauer: 15:01</span></h3><div class="yt-lockup-byline">von <a href="/user/TenisHighlights" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCkOZeDVG-Risbg7o5oi1BbQ" data-sessionlink="itct=CBUQ3DAYAyITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">TenisHighlights</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 3 Jahren</li><li>548.638 Aufrufe</li></ul></div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="jJV-mF6chSg" data-visibility-tracking="CBQQ3DAYBCITCJTdiPqwv8YCFWVdwgodOnwAqij0JECoivL0hdPfyowB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=jJV-mF6chSg" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBQQ3DAYBCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/jJV-mF6chSg/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">14:37</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="jJV-mF6chSg"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="jJV-mF6chSg"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="jJV-mF6chSg"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="jJV-mF6chSg" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=jJV-mF6chSg" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBQQ3DAYBCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Roger Federer and Rafa Nadal can&#39;t stop laughing at the tv spot. funny!" aria-describedby="description-id-856597" rel="spf-prefetch" dir="ltr">Roger Federer and Rafa Nadal can&#39;t stop laughing at the tv spot. funny!</a><span class="accessible-description" id="description-id-856597"> - Dauer: 14:37</span></h3><div class="yt-lockup-byline">von <a href="/user/mmaubb" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UC7YjECZ8IhsQr-NcHFBYTwA" data-sessionlink="itct=CBQQ3DAYBCITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Mauricio Bainotti</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>2.241.694 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Roger <b>Federer</b> and Rafa <b>Nadal</b> trying to make a tv spot for Spain and roger is tempted when rafa try to speak English. It&#39;s so funny.</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="cjDlO4TY0mc" data-visibility-tracking="CBMQ3DAYBSITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDnpOOmuKe5mHI="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=cjDlO4TY0mc" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBMQ3DAYBSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="//i.ytimg.com/vi/cjDlO4TY0mc/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">2:36</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="cjDlO4TY0mc"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="cjDlO4TY0mc"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="cjDlO4TY0mc"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="cjDlO4TY0mc" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=cjDlO4TY0mc" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBMQ3DAYBSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Nadal and Federer Rivalry In ATP World Tour Uncovered" aria-describedby="description-id-364273" rel="spf-prefetch" dir="ltr">Nadal and Federer Rivalry In ATP World Tour Uncovered</a><span class="accessible-description" id="description-id-364273"> - Dauer: 2:36</span></h3><div class="yt-lockup-byline">von <a href="/user/ATPWorldTour" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCY_5h5zaSwN7Or4kIJDYNXA" data-sessionlink="itct=CBMQ3DAYBSITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">ATPWorldTour</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>300.847 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">The <b>Nadal</b>-<b>Federer</b> rivalry is profiled in season 3, episode 14 of ATP World Tour Uncovered.</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="2owjhcrUBI0" data-visibility-tracking="CBIQ3DAYBiITCJTdiPqwv8YCFWVdwgodOnwAqij0JECNidDW3PCIxtoB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=2owjhcrUBI0" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBIQ3DAYBiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/2owjhcrUBI0/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">3:41:07</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="2owjhcrUBI0"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="2owjhcrUBI0"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="2owjhcrUBI0"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="2owjhcrUBI0" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=2owjhcrUBI0" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBIQ3DAYBiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Australian Open 2012 - Federer vs Nadal - Semifinal - Full Match" aria-describedby="description-id-976324" rel="spf-prefetch" dir="ltr">Australian Open 2012 - Federer vs Nadal - Semifinal - Full Match</a><span class="accessible-description" id="description-id-976324"> - Dauer: 3:41:07</span></h3><div class="yt-lockup-byline">von <a href="/user/SomeTennisHighlights" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCKDjjFKZ9H8LGYSB2WSKFrw" data-sessionlink="itct=CBIQ3DAYBiITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">SomeTennisHighlights</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 3 Jahren</li><li>872.197 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr"><b>Federer</b> would have won if there wasn&#39;t that stupid 30mins break for fireworks. Because <b>Federer</b> lost I will not upload in 1080p.</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="N9D6JatXdRY" data-visibility-tracking="CBEQ3DAYByITCJTdiPqwv8YCFWVdwgodOnwAqij0JECW6t3a2sS-6Dc="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=N9D6JatXdRY" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBEQ3DAYByITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/N9D6JatXdRY/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">19:26</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="N9D6JatXdRY"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="N9D6JatXdRY"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="N9D6JatXdRY"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="N9D6JatXdRY" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=N9D6JatXdRY" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBEQ3DAYByITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="HD Federer vs Nadal Madrid 2009" aria-describedby="description-id-524045" rel="spf-prefetch" dir="ltr">HD Federer vs Nadal Madrid 2009</a><span class="accessible-description" id="description-id-524045"> - Dauer: 19:26</span></h3><div class="yt-lockup-byline">von <a href="/user/FedererMagics" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCSCpsqxZeX2rFp2e_k-z1cg" data-sessionlink="itct=CBEQ3DAYByITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">FedererMagics</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 5 Jahren</li><li>139.712 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Enjoy!!</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="9EXeweMO520" data-visibility-tracking="CBAQ3DAYCCITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDtzruYntj3ovQB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=9EXeweMO520" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CBAQ3DAYCCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/9EXeweMO520/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">3:21</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="9EXeweMO520"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="9EXeweMO520"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="9EXeweMO520"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="9EXeweMO520" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=9EXeweMO520" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CBAQ3DAYCCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Roger Federer and Rafael Nadal laughing - Funny charity match outtakes" aria-describedby="description-id-741266" rel="spf-prefetch" dir="ltr">Roger Federer and Rafael Nadal laughing - Funny charity match outtakes</a><span class="accessible-description" id="description-id-741266"> - Dauer: 3:21</span></h3><div class="yt-lockup-byline">von <a href="/user/ATP" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCbcxFkd6B9xUU54InHv4Tig" data-sessionlink="itct=CBAQ3DAYCCITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">ATP</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>112.325 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Roger <b>Federer</b> and Rafael <b>Nadal</b> charity matches live on TennisTV.com in December 2010. These are the promo outtakes.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="SnATiDGqkLQ" data-visibility-tracking="CA8Q3DAYCSITCJTdiPqwv8YCFWVdwgodOnwAqij0JEC0oaqNg_GEuEo="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=SnATiDGqkLQ" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CA8Q3DAYCSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/SnATiDGqkLQ/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">35:14</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="SnATiDGqkLQ"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="SnATiDGqkLQ"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="SnATiDGqkLQ"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="SnATiDGqkLQ" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=SnATiDGqkLQ" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CA8Q3DAYCSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Australian Open 2009 Final Nadal vs Federer Extended Highlights" aria-describedby="description-id-254922" rel="spf-prefetch" dir="ltr">Australian Open 2009 Final Nadal vs Federer Extended Highlights</a><span class="accessible-description" id="description-id-254922"> - Dauer: 35:14</span></h3><div class="yt-lockup-byline">von <a href="/channel/UCoYEgcLP9LpwQFRIqezuu_A" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCoYEgcLP9LpwQFRIqezuu_A" data-sessionlink="itct=CA8Q3DAYCSITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Sergio Santos Sampedro</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>201.529 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Resumen extendido de la final del Open de Australia de 2009, con lo mejores y más importantes puntos (bolas de break, puntos ...</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="7fFaCTcz0Kk" data-visibility-tracking="CA4Q3DAYCiITCJTdiPqwv8YCFWVdwgodOnwAqij0JECpoc-5k8HW-O0B"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=7fFaCTcz0Kk" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CA4Q3DAYCiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/7fFaCTcz0Kk/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">2:40</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="7fFaCTcz0Kk"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="7fFaCTcz0Kk"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="7fFaCTcz0Kk"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="7fFaCTcz0Kk" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=7fFaCTcz0Kk" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CA4Q3DAYCiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Nadal v Federer highlights (semifinal) - 2014 Australian Open" aria-describedby="description-id-543906" rel="spf-prefetch" dir="ltr">Nadal v Federer highlights (semifinal) - 2014 Australian Open</a><span class="accessible-description" id="description-id-543906"> - Dauer: 2:40</span></h3><div class="yt-lockup-byline">von <a href="/user/australianopentv" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCeTKJSW1NTAkf27nNmjWt5A" data-sessionlink="itct=CA4Q3DAYCiITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Australian Open TV</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 1 Jahr</li><li>249.357 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Highlights of Rafael <b>Nadal&#39;s</b> straight-sets semifinal victory over Roger <b>Federer</b>.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="S6KIKts5sP8" data-visibility-tracking="CA0Q3DAYCyITCJTdiPqwv8YCFWVdwgodOnwAqij0JED_4ebZrYWi0Us="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=S6KIKts5sP8" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CA0Q3DAYCyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/S6KIKts5sP8/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">13:12</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="S6KIKts5sP8"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="S6KIKts5sP8"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="S6KIKts5sP8"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="S6KIKts5sP8" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=S6KIKts5sP8" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CA0Q3DAYCyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer vs Nadal - Madrid 2011 SF (HD)" aria-describedby="description-id-610971" rel="spf-prefetch" dir="ltr">Federer vs Nadal - Madrid 2011 SF (HD)</a><span class="accessible-description" id="description-id-610971"> - Dauer: 13:12</span></h3><div class="yt-lockup-byline">von <a href="/user/Patientbears" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UC3zVeMe7dnDjw_B1g7ZCVSQ" data-sessionlink="itct=CA0Q3DAYCyITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">WorldTennis24</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>106.745 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Great match between two great players!</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="wySnW7QlO8M" data-visibility-tracking="CAwQ3DAYDCITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDD95Shu-upksMB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=wySnW7QlO8M" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAwQ3DAYDCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/wySnW7QlO8M/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">6:24</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="wySnW7QlO8M"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="wySnW7QlO8M"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="wySnW7QlO8M"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="wySnW7QlO8M" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=wySnW7QlO8M" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAwQ3DAYDCITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer Vs Nadal Best Points [HD]" aria-describedby="description-id-460055" rel="spf-prefetch" dir="ltr">Federer Vs Nadal Best Points [HD]</a><span class="accessible-description" id="description-id-460055"> - Dauer: 6:24</span></h3><div class="yt-lockup-byline">von <a href="/user/Ryanlochte888" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCiuVm9fcyjt6ufyXFEFpV2w" data-sessionlink="itct=CAwQ3DAYDCITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Axel Joye</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>127.187 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Compilation of Best points for matchs <b>Federer</b> vs <b>Nadal</b>.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="xOduLz7vPB4" data-visibility-tracking="CAsQ3DAYDSITCJTdiPqwv8YCFWVdwgodOnwAqij0JECe-Lz388Xb88QB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=xOduLz7vPB4" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAsQ3DAYDSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/xOduLz7vPB4/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">15:01</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="xOduLz7vPB4"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="xOduLz7vPB4"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="xOduLz7vPB4"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="xOduLz7vPB4" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=xOduLz7vPB4" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAsQ3DAYDSITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer vs Nadal Wimbledon 2008 Final : The greatest Tie Break of all time" aria-describedby="description-id-668520" rel="spf-prefetch" dir="ltr">Federer vs Nadal Wimbledon 2008 Final : The greatest Tie Break of all time</a><span class="accessible-description" id="description-id-668520"> - Dauer: 15:01</span></h3><div class="yt-lockup-byline">von <a href="/channel/UCmFnOYLd55pnqKV5EytEsaQ" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCmFnOYLd55pnqKV5EytEsaQ" data-sessionlink="itct=CAsQ3DAYDSITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">BestOfTennis</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 1 Jahr</li><li>54.968 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">Lots of suspense... Enjoy ! <b>Federer</b> vs <b>Nadal</b> Wimbledon 2008 Final fourth set tie break.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="Rx_irCiH6Gw" data-visibility-tracking="CAoQ3DAYDiITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDs0J_EwtX4j0c="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=Rx_irCiH6Gw" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAoQ3DAYDiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/Rx_irCiH6Gw/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">8:28</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="Rx_irCiH6Gw"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="Rx_irCiH6Gw"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="Rx_irCiH6Gw"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="Rx_irCiH6Gw" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=Rx_irCiH6Gw" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAoQ3DAYDiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer/Sampras-Nadal/Agassi A charity doubles 10 (Highlights)" aria-describedby="description-id-756585" rel="spf-prefetch" dir="ltr">Federer/Sampras-Nadal/Agassi A charity doubles 10 (Highlights)</a><span class="accessible-description" id="description-id-756585"> - Dauer: 8:28</span></h3><div class="yt-lockup-byline">von <a href="/user/tenisaddict" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCFXIVLG-f9tAAhcidvacb3g" data-sessionlink="itct=CAoQ3DAYDiITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">tenisaddict</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 5 Jahren</li><li>395.455 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">&quot;Dream&quot; doubles teams...shame that it&#39;s only one set!! Where Rog &amp; Pete won at 8-6. On court interview after match included!</div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="IY-cgvdj9Lg" data-visibility-tracking="CAkQ3DAYDyITCJTdiPqwv8YCFWVdwgodOnwAqij0JEC46Y-7r5DnxyE="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=IY-cgvdj9Lg" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAkQ3DAYDyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/IY-cgvdj9Lg/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">14:22</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="IY-cgvdj9Lg"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="IY-cgvdj9Lg"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="IY-cgvdj9Lg"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="IY-cgvdj9Lg" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=IY-cgvdj9Lg" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAkQ3DAYDyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Roger Federer vs Rafael Nadal - Indian Wells 2012 Semifinal  (HD)" aria-describedby="description-id-826384" rel="spf-prefetch" dir="ltr">Roger Federer vs Rafael Nadal - Indian Wells 2012 Semifinal  (HD)</a><span class="accessible-description" id="description-id-826384"> - Dauer: 14:22</span></h3><div class="yt-lockup-byline">von <a href="/user/RFtakahashi" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCsm5mK_ei-gAgUQgWfoz4qA" data-sessionlink="itct=CAkQ3DAYDyITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">RFtakahashi</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>259.898 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">ロジャー・フェデラーvsラファエル・ナダル BNPパリバオープン準決勝ハイライト カルフォニア・インディアンウェルズにて.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="DURqdkEzAN8" data-visibility-tracking="CAgQ3DAYECITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDfgcyJ5M6aog0="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=DURqdkEzAN8" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAgQ3DAYECITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/DURqdkEzAN8/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">1:21:15</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="DURqdkEzAN8"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="DURqdkEzAN8"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="DURqdkEzAN8"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="DURqdkEzAN8" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=DURqdkEzAN8" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAgQ3DAYECITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Hit for Haiti IW Federer Sampras vs Agassi Nadal ENG Full Match" aria-describedby="description-id-400257" rel="spf-prefetch" dir="ltr">Hit for Haiti IW Federer Sampras vs Agassi Nadal ENG Full Match</a><span class="accessible-description" id="description-id-400257"> - Dauer: 1:21:15</span></h3><div class="yt-lockup-byline">von <a href="/user/atpworldtourmaster" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UC3eO5yGf86WbcVaInallwtw" data-sessionlink="itct=CAgQ3DAYECITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">ATP Masters</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>436.667 Aufrufe</li></ul></div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="i2TLQdA5wts" data-visibility-tracking="CAcQ3DAYESITCJTdiPqwv8YCFWVdwgodOnwAqij0JEDbheeBneiysosB"><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=i2TLQdA5wts" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAcQ3DAYESITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/i2TLQdA5wts/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">11:15</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="i2TLQdA5wts"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="i2TLQdA5wts"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="i2TLQdA5wts"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="i2TLQdA5wts" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=i2TLQdA5wts" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAcQ3DAYESITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer and Nadal - Funniest moments (HD)" aria-describedby="description-id-670329" rel="spf-prefetch" dir="ltr">Federer and Nadal - Funniest moments (HD)</a><span class="accessible-description" id="description-id-670329"> - Dauer: 11:15</span></h3><div class="yt-lockup-byline">von <a href="/user/TennisTopTributes" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCkDOljPgdQaCdOH84zFDLeg" data-sessionlink="itct=CAcQ3DAYESITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">TennisTopTributes</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 3 Monaten</li><li>29.534 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr">This day, 11 years ago, marked the first encounter between the two champions, and the rivalry has since then been widely ...</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="VKWI5RcvzIs" data-visibility-tracking="CAYQ3DAYEiITCJTdiPqwv8YCFWVdwgodOnwAqij0JECLmb-50Zzi0lQ="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=VKWI5RcvzIs" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAYQ3DAYEiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/VKWI5RcvzIs/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">1:13:38</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="VKWI5RcvzIs"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="VKWI5RcvzIs"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="VKWI5RcvzIs"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="VKWI5RcvzIs" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=VKWI5RcvzIs" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAYQ3DAYEiITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="2010 Hit for Haiti Indian Wells: Sampras/Federer vs. Agassi/Nadal (HD)" aria-describedby="description-id-831426" rel="spf-prefetch" dir="ltr">2010 Hit for Haiti Indian Wells: Sampras/Federer vs. Agassi/Nadal (HD)</a><span class="accessible-description" id="description-id-831426"> - Dauer: 1:13:38</span></h3><div class="yt-lockup-byline">von <a href="/user/Tennischannelnetwork" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCtAOR2wzRznWQYoEx7qCW-g" data-sessionlink="itct=CAYQ3DAYEiITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Tennischannelnetwork</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 2 Jahren</li><li>1.278.699 Aufrufe</li></ul></div><div class="yt-lockup-description yt-ui-ellipsis yt-ui-ellipsis-2" dir="ltr"><a href="http://www.youtube.com/user/SuperTennisNetwork" target="_blank" title="http://www.youtube.com/user/SuperTennisNetwork" rel="nofollow" dir="ltr" class="yt-uix-redirect-link">http://www.youtube.com/user/SuperTennisNetwork</a>.</div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+
+<li><div class="yt-lockup yt-lockup-tile yt-lockup-video vve-check clearfix yt-uix-tile" data-context-item-id="aTKkLhO5TQI" data-visibility-tracking="CAUQ3DAYEyITCJTdiPqwv8YCFWVdwgodOnwAqij0JECCmuWd4YWpmWk="><div class="yt-lockup-dismissable"><div class="yt-lockup-thumbnail contains-addto"><a aria-hidden="true" href="/watch?v=aTKkLhO5TQI" class="yt-uix-sessionlink        spf-link " data-sessionlink="itct=CAUQ3DAYEyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg"><div class="yt-thumb video-thumb"><img src="https://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" data-thumb="//i.ytimg.com/vi/aTKkLhO5TQI/mqdefault.jpg" width="196" height="110"/></div><span class="video-time" aria-hidden="true">12:09</span></a>  <span class="thumb-menu dark-overflow-action-menu video-actions">
+    <button class="yt-uix-button-reverse flip addto-watch-queue-menu spf-nolink hide-until-delayloaded yt-uix-button yt-uix-button-dark-overflow-action-menu yt-uix-button-size-default yt-uix-button-has-icon no-icon-markup yt-uix-button-empty" type="button" aria-haspopup="true" aria-expanded="false" onclick=";return false;" ><span class="yt-uix-button-arrow yt-sprite"></span><ul class="watch-queue-thumb-menu yt-uix-button-menu yt-uix-button-menu-dark-overflow-action-menu hid"><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-next yt-uix-button-menu-item" data-action="play-next" onclick=";return false;"  data-video-ids="aTKkLhO5TQI"><span class="addto-watch-queue-menu-text">Nächstes Video</span></li><li role="menuitem" class="overflow-menu-choice addto-watch-queue-menu-choice addto-watch-queue-play-now yt-uix-button-menu-item" data-action="play-now" onclick=";return false;"  data-video-ids="aTKkLhO5TQI"><span class="addto-watch-queue-menu-text">Jetzt wiedergeben</span></li></ul></button>
+  </span>
+
+
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip" type="button" onclick=";return false;" role="button" title="Später ansehen" data-button-menu-id="shared-addto-watch-later-login" data-video-ids="aTKkLhO5TQI"><span class="yt-uix-button-arrow yt-sprite"></span></button>
+  <button class="yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip" type="button" onclick=";return false;" title="TV-Wiedergabeliste" data-video-ids="aTKkLhO5TQI" data-style="tv-queue"></button>
+</div><div class="yt-lockup-content"><h3 class="yt-lockup-title"><a href="/watch?v=aTKkLhO5TQI" class="yt-uix-sessionlink yt-uix-tile-link yt-ui-ellipsis yt-ui-ellipsis-2       spf-link " data-sessionlink="itct=CAUQ3DAYEyITCJTdiPqwv8YCFWVdwgodOnwAqij0JFINbmFkYWwgZmVkZXJlcg" title="Federer vs Nadal - Wimbledon Final 2007 Highlights [HD]" aria-describedby="description-id-2968" rel="spf-prefetch" dir="ltr">Federer vs Nadal - Wimbledon Final 2007 Highlights [HD]</a><span class="accessible-description" id="description-id-2968"> - Dauer: 12:09</span></h3><div class="yt-lockup-byline">von <a href="/user/danyorton" class="yt-uix-sessionlink g-hovercard      spf-link " data-ytid="UCz-dlEkH5c1Ul7oId1pX0SQ" data-sessionlink="itct=CAUQ3DAYEyITCJTdiPqwv8YCFWVdwgodOnwAqij0JA">Dany Orton</a></div><div class="yt-lockup-meta"><ul class="yt-lockup-meta-info"><li>vor 4 Jahren</li><li>275.165 Aufrufe</li></ul></div><div class="yt-lockup-badges"><ul class="yt-badge-list "><li class="yt-badge-item" ><span class="yt-badge " >HD</span></li></ul> </div></div></div></div></li>
+</ol>
+</li>
+</ol>
+
+
+  </div>
+
+
+  
+
+    <div class="yt-uix-pager search-pager branded-page-box spf-link " role="navigation">
+
+          
+<a href="/results?search_query=nadal+federer&amp;page=1" class="yt-uix-button  yt-uix-pager-button yt-uix-button-toggled yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="1" aria-label="Gehe zu Seite 1"><span class="yt-uix-button-content">1</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=2" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="2" aria-label="Gehe zu Seite 2"><span class="yt-uix-button-content">2</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=3" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="3" aria-label="Gehe zu Seite 3"><span class="yt-uix-button-content">3</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=4" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="4" aria-label="Gehe zu Seite 4"><span class="yt-uix-button-content">4</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=5" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="5" aria-label="Gehe zu Seite 5"><span class="yt-uix-button-content">5</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=6" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="6" aria-label="Gehe zu Seite 6"><span class="yt-uix-button-content">6</span></a>
+          
+<a href="/results?search_query=nadal+federer&amp;page=7" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="num" data-page="7" aria-label="Gehe zu Seite 7"><span class="yt-uix-button-content">7</span></a>
+
+        
+<a href="/results?search_query=nadal+federer&amp;page=2" class="yt-uix-button  yt-uix-pager-button yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default" data-sessionlink="feature=pagination&amp;ei=Z7iWVdSNAuW6iQa6-IHQCg" data-link-type="next" data-page="2"><span class="yt-uix-button-content">Weiter »</span></a>
+    </div>
+
+
+
+  </div>
+
+          </div>
+        </div>
+          <div class="branded-page-v2-secondary-col">
+                <div id="search-secondary-col-contents">
+      
+        
+                
+
+
+  <div id="ad_creative_1" class="ad-div " style="z-index: 1">
+    <div id="ad_creative_div_1"></div>
+    <script>(function() {function tagMpuIframe() {var containerEl = document.getElementById('ad_creative_div_1');if (!containerEl) {return;}var iframeEl = document.createElement('iframe');var iframeSrc = 'https://ad.doubleclick.net/N4061/adi/com.ytsrc.undef/default;sz=300x250;tile=1;ssl=1;dc_yt=1;kga=-1;kgg=-1;klg=de;kmyd=ad_creative_1;ytexp=9407642,9408212,9409218,9410705,9412928,9415469,9416293,9416729,9417116;ord=' +Math.floor(Math.random() * 10000000000000000) +'?';iframeEl.id = 'ad_creative_iframe_1';iframeEl.width = '300';iframeEl.height = '250';iframeEl.style.cssText = 'z-index:1;';iframeEl.scrolling = 'no';iframeEl.frameBorder = '0';containerEl.appendChild(iframeEl);iframeEl.src = iframeSrc;}tagMpuIframe();})();</script>
+      <div style="font-size: 10px; padding-top: 3px;" class="alignC grayText">
+          <a href="/t/ads_preferences">
+Anzeige
+          </a>
+      </div>
+<script>(function() {if (1193 > document.documentElement.clientWidth) {var adIframe = document.getElementById('ad_creative_iframe_1');adIframe.parentNode.removeChild(adIframe);}})();</script>  </div>
+
+
+    </div>
+
+          </div>
+      </div>
+    </div>
+  </div>
+</div></div></div></div>  <div id="footer-container" class="yt-base-gutter force-layer"><div id="footer"><div id="footer-main"><div id="footer-logo"><a href="/" id="footer-logo-link" title="YouTube-Startseite" data-sessionlink="ei=Z7iWVdSNAuW6iQa6-IHQCg&amp;ved=CBkQpmE" class="yt-uix-sessionlink"><span class="footer-logo-icon yt-sprite"></span></a></div>  <ul class="pickers yt-uix-button-group" data-button-toggle-group="optional">
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon" type="button" onclick=";return false;" id="yt-picker-language-button" data-button-menu-id="arrow-display" data-picker-key="language" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-language yt-sprite"></span></span><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Sprache:
+  </span>
+  Deutsch
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+            <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-country-button" data-button-menu-id="arrow-display" data-picker-key="country" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Land:
+  </span>
+  Deutschland
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+      <li>
+              <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default" type="button" onclick=";return false;" id="yt-picker-safetymode-button" data-button-menu-id="arrow-display" data-picker-key="safetymode" data-picker-position="footer" data-button-action="yt.www.picker.load" data-button-toggle="true"><span class="yt-uix-button-content">  <span class="yt-picker-button-label">
+Sicherer Modus:
+  </span>
+Aus
+</span><span class="yt-uix-button-arrow yt-sprite"></span></button>
+
+
+      </li>
+  </ul>
+<a href="/feed/history" class="yt-uix-button  footer-history yt-uix-sessionlink yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon" data-sessionlink="ei=Z7iWVdSNAuW6iQa6-IHQCg"><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-footer-history yt-sprite"></span></span><span class="yt-uix-button-content">Verlauf</span></a>      <button class="yt-uix-button yt-uix-button-size-default yt-uix-button-default yt-uix-button-has-icon yt-uix-button-reverse yt-google-help-link inq-no-click " type="button" onclick=";return false;" data-ghelp-tracking-param="" id="google-help" data-ghelp-anchor="google-help" data-load-chat-support=""><span class="yt-uix-button-icon-wrapper"><span class="yt-uix-button-icon yt-uix-button-icon-questionmark yt-sprite"></span></span><span class="yt-uix-button-content">Hilfe
+</span></button>
+      <div id="yt-picker-language-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-country-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+
+  </div>
+
+      <div id="yt-picker-safetymode-footer" class="yt-picker" style="display: none">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+
+  </div>
+
+</div><div id="footer-links"><ul id="footer-links-primary">  <li><a href="//www.youtube.com/yt/about/de/">Über YouTube</a></li>
+  <li><a href="//www.youtube.com/yt/press/de/">
+Presse
+  </a></li>
+  <li><a href="//www.youtube.com/yt/copyright/de/">Urheberrecht</a></li>
+  <li><a href="//www.youtube.com/yt/creators/de/">
+Videokünstler
+  </a></li>
+  <li><a href="//www.youtube.com/yt/advertise/de/">
+Werbung
+  </a></li>
+  <li><a href="//www.youtube.com/yt/dev/de/">Entwickler</a></li>
+  <li><a href="https://plus.google.com/+youtube" dir="ltr">+YouTube</a></li>
+</ul><ul id="footer-links-secondary">  <li><a href="/t/terms">Nutzungsbedingungen</a></li>
+  <li><a href="https://www.google.de/intl/de/policies/privacy/">Datenschutz</a></li>
+  <li><a href="//www.youtube.com/yt/policyandsafety/de/">
+Richtlinien und Sicherheit
+  </a></li>
+  <li><a href="//support.google.com/youtube/?hl=de" onclick="return yt.www.feedback.start(59);" class="reportbug">Feedback senden</a></li>
+  <li><a href="/testtube">Probier mal was Neues aus!</a></li>
+  <li></li>
+</ul></div></div></div>
+
+
+      <div class="yt-dialog hid " id="feed-privacy-lb">
+    <div class="yt-dialog-base">
+      <span class="yt-dialog-align"></span>
+      <div class="yt-dialog-fg" role="dialog">
+        <div class="yt-dialog-fg-content">
+          <div class="yt-dialog-loading">
+              <div class="yt-dialog-waiting-content">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+Wird geladen...
+    </span>
+  </p>
+
+  </div>
+
+          </div>
+          <div class="yt-dialog-content">
+              <div id="feed-privacy-dialog">
+  </div>
+
+          </div>
+          <div class="yt-dialog-working">
+              <div class="yt-dialog-working-overlay"></div>
+  <div class="yt-dialog-working-bubble">
+    <div class="yt-dialog-waiting-content">
+        <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+        Wird verarbeitet...
+    </span>
+  </p>
+
+      </div>
+  </div>
+
+          </div>
+        </div>
+        <div class="yt-dialog-focus-trap" tabindex="0"></div>
+      </div>
+    </div>
+  </div>
+
+
+<div id="hidden-component-template-wrapper" class="hid">    <div id="shared-addto-watch-later-login" class="hid">
+      <a class="sign-in-link" href="https://accounts.google.com/ServiceLogin?uilel=3&amp;hl=de&amp;service=youtube&amp;passive=true&amp;continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26feature%3Dplaylist%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3D%252Fresults%253Fsearch_query%253Dnadal%252Bfederer">Melde dich an</a>, um dieses Video zur Playlist "Später ansehen" hinzuzufügen.
+
+    </div>
+  <div id="yt-uix-videoactionmenu-menu" class="yt-ui-menu-content">
+      <div class="hide-on-create-pl-panel">
+    <h3>
+Hinzufügen
+    </h3>
+  </div>
+  <div class="add-to-widget">
+      <p class="yt-spinner ">
+        <span class="yt-spinner-img  yt-sprite" title="Ladesymbol"></span>
+
+    <span class="yt-spinner-message">
+        Playlists werden geladen...
+    </span>
+  </p>
+
+  </div>
+
+  </div>
+</div>    <script>var ytspf = ytspf || {};ytspf.enabled = true;ytspf.config = {'reload-identifier': 'spfreload'};ytspf.config['cache-max'] = 50;ytspf.config['navigate-limit'] = 50;ytspf.config['navigate-lifetime'] = 64800000;</script>
+  <script src="//s.ytimg.com/yts/jsbin/spf-vflIqxJOJ/spf.js" type="text/javascript" name="spf/spf"></script>
+  <script src="//s.ytimg.com/yts/jsbin/www-en_US-vflyzvRaa/base.js" name="www/base"></script>
+<script>spf.script.path({'www/': '//s.ytimg.com/yts/jsbin/www-en_US-vflyzvRaa/'});var ytdepmap = {"www/base": null, "www/common": "www/base", "www/angular_base": "www/common", "www/channels_accountupload": "www/common", "www/dashboard": "www/common", "www/downloadreports": "www/common", "www/experiments": "www/common", "www/feed": "www/common", "www/historycontrols": "www/common", "www/innertube": "www/common", "www/instant": "www/common", "www/legomap": "www/common", "www/live_chat": "www/common", "www/live_chat_moderation": "www/common", "www/promo_join_network": "www/common", "www/results_harlemshake": "www/common", "www/results": "www/common", "www/results_star_trek": "www/common", "www/results_starwars": "www/common", "www/subscriptionmanager": "www/common", "www/unlimited": "www/common", "www/watch": "www/common", "www/ypc_bootstrap": "www/common", "www/ypc_core": "www/common", "www/ytstyles": "www/common", "www/channels": "www/angular_base", "www/innertube_watchnext": "www/innertube", "www/live_broadcasts": "www/angular_base", "www/live_dashboard": "www/angular_base", "www/videomanager": "www/angular_base", "www/watch_autoplayrenderer": "www/watch", "www/watch_edit": "www/watch", "www/watch_editor": "www/watch", "www/watch_live": "www/watch", "www/watch_promos": "www/watch", "www/watch_speedyg": "www/watch", "www/watch_transcript": "www/watch", "www/watch_videoshelf": "www/watch", "www/channels_edit": "www/channels", "www/ct_advancedsearch": "www/videomanager", "www/my_videos": "www/videomanager", "www/vm_coverrevshare": "www/videomanager"};spf.script.declare(ytdepmap);</script><script>if (window.ytcsi) {window.ytcsi.tick("je", null, '');}</script>        <script src="//s.ytimg.com/yts/jsbin/www-search-ads-vflOo_dzH/www-search-ads.js" type="text/javascript" name="www-search-ads/www-search-ads"></script>
+
+
+
+  <script>
+        yt.setConfig({
+      'JS_PAGE_MODULES': [
+        'www/results',
+        'www/ypc_bootstrap',
+        ''
+      ],
+
+
+
+      'TIMING_REPORT_ON_UNLOAD': true
+    });
+
+
+      yt.www.ads.pyvsearch.pyvSearchAdsCallback();
+
+
+
+
+
+      yt.setConfig({
+    'GUIDED_HELP_LOCALE': "de_DE",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+
+  </script>
+  
+<script>yt.setConfig({APIARY_HOST: "",INNERTUBE_API_KEY: "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8",INNERTUBE_CONTEXT_CLIENT_VERSION: "20150629",APIARY_HOST_FIRSTPARTY: "",GAPI_HINT_PARAMS: "m;\/_\/scs\/abc-static\/_\/js\/k=gapi.gapi.en.6zwg_pEP_2A.O\/m=__features__\/am=AAQ\/rt=j\/d=1\/rs=AItRSTNy-00ELgURzlKy-V-78pEvv5BpHA",INNERTUBE_API_VERSION: "v1",'GAPI_HOST': "https:\/\/apis.google.com",'GAPI_LOCALE': "de_DE",'INNERTUBE_CONTEXT_HL': "de",'INNERTUBE_CONTEXT_GL': "DE"});yt.setConfig({'EVENT_ID': "Z7iWVdSNAuW6iQa6-IHQCg",'PAGE_NAME': "results",'LOGGED_IN': false,'SESSION_INDEX': null,'PARENT_TRACKING_PARAMS': "",'FORMATS_FILE_SIZE_JS': ["%s B","%s KB","%s MB","%s GB","%s TB"],'DELEGATED_SESSION_ID': null,'ONE_PICK_URL': "",'UNIVERSAL_HOVERCARDS': true,'VISITOR_DATA': "CgtBaWt6bF9KSURkUQ%3D%3D",'GOOGLEPLUS_HOST': "https:\/\/plus.google.com",'PAGEFRAME_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-pageframe-vflWZkSpy\/www-pageframe.js",'JS_COMMON_MODULE': "\/\/s.ytimg.com\/yts\/jsbin\/www-en_US-vflyzvRaa\/common.js",'PAGE_FRAME_DELAYLOADED_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-pageframedelayloaded-vfltJItC2.css",'PREFETCH_CSS_RESOURCES' : ["\/\/s.ytimg.com\/yts\/cssbin\/www-player-vflK0fqIG.css"],'PREFETCH_JS_RESOURCES': ["\/\/s.ytimg.com\/yts\/jsbin\/html5player-de_DE-vfl2Wj5ej\/html5player.js",''         ],'PREFETCH_LINKS': false,'PREFETCH_LINKS_MAX': 1,'PREFETCH_AUTOPLAY': false,'PREFETCH_AUTOPLAY_TIME': 0,'PREFETCH_AUTONAV': false,'PREBUFFER_MAX': 1,'PREBUFFER_LINKS': false,'PREBUFFER_AUTOPLAY': false,'PREBUFFER_AUTONAV': false,'WATCH_LATER_BUTTON': "\n\n  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button video-actions spf-nolink hide-until-delayloaded addto-watch-later-button-sign-in yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" role=\"button\" title=\"Später ansehen\" data-button-menu-id=\"shared-addto-watch-later-login\" data-video-ids=\"__VIDEO_ID__\"\u003e\u003cspan class=\"yt-uix-button-arrow yt-sprite\"\u003e\u003c\/span\u003e\u003c\/button\u003e\n",'WATCH_QUEUE_BUTTON': "  \u003cbutton class=\"yt-uix-button yt-uix-button-size-small yt-uix-button-default yt-uix-button-empty yt-uix-button-has-icon no-icon-markup addto-button addto-queue-button video-actions spf-nolink hide-until-delayloaded addto-tv-queue-button yt-uix-tooltip\" type=\"button\" onclick=\";return false;\" title=\"TV-Wiedergabeliste\" data-video-ids=\"__VIDEO_ID__\" data-style=\"tv-queue\"\u003e\u003c\/button\u003e\n",'SAFETY_MODE_PENDING': false,'I18N_PLURAL_RULES': function(n) { return (n == 1) ? 'one' : 'other'; },'LOCAL_DATE_TIME_CONFIG': {"formatLongDate":"d. MMMM yyyy 'um 'H:mm","weekendRange":[6,5],"shortMonths":["Jan.","Feb.","März","Apr.","Mai","Juni","Juli","Aug.","Sep.","Okt.","Nov.","Dez."],"formatLongDateOnly":"d. MMMM yyyy","formatShortDate":"dd.MM.yyyy","weekdays":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"formatWeekdayShortTime":"EE H:mm","formatShortTime":"H:mm","dateFormats":["d. MMMM yyyy 'um 'H:mm","d. MMMM yyyy","dd.MM.yyyy","dd.MM.yyyy"],"firstWeekCutoffDay":3,"amPms":null,"months":["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"shortWeekdays":["So.","Mo.","Di.","Mi.","Do.","Fr.","Sa."],"firstDayOfWeek":0},'PAGE_CL': 97201396,'PAGE_BUILD_LABEL': "youtube_20150630_RC0",'VARIANTS_CHECKSUM': "c40f34ba6bd9d0042901d1c126a5eb99",'CLIENT_PROTOCOL': "HTTP\/1.1",'CLIENT_TRANSPORT': "tcp",'MDX_ENABLE_CASTV2': true,'MDX_ENABLE_QUEUE': true,'FEEDBACK_BUCKET_ID': "Search",'FEEDBACK_LOCALE_LANGUAGE': "de",'FEEDBACK_LOCALE_EXTRAS': {"experiments":"901816,912345,918119,925734,930822,932633,9407141,9407448,9407484,9407642,9407778,9407827,9408142,9408212,9408395,9408420,9408710,9408712,9409218,940936,940938,9410705,9412893,9412895,9412928,9412929,9413172,9413334,9413378,9413485,9414633,9415018,9415048,9415117,9415118,9415364,9415469,9415497,9415576,9415783,9415890,9416026,9416082,9416095,9416126,9416239,9416293,9416416,9416427,9416527,9416718,9416729,9416829,9417116,942814,946811,952640","logged_in":false,"is_partner":"","guide_subs":"NA","is_branded":"","accept_language":null}});   yt.setConfig({
+    'GUIDED_HELP_LOCALE': "de_DE",
+    'GUIDED_HELP_ENVIRONMENT': "prod"
+  });
+yt.setConfig('SPF_SEARCH_BOX', true);yt.setMsg({'ADDTO_CREATE_NEW_PLAYLIST': "Neue Playlist erstellen\n",'ADDTO_CREATE_PLAYLIST_DYNAMIC_TITLE': "  $dynamic_title_placeholder (neu erstellen)\n",'ADDTO_WATCH_LATER': "Watch Later",'ADDTO_WATCH_LATER_ADDED': "Hinzugefügt",'ADDTO_WATCH_LATER_ERROR': "Fehler",'ADDTO_WATCH_QUEUE': "Watch Queue",'ADDTO_WATCH_QUEUE_ADDED': "Hinzugefügt",'ADDTO_WATCH_QUEUE_ERROR': "Fehler",'ADDTO_TV_QUEUE': "TV Queue",'ADS_INSTREAM_FIRST_PLAY': "Eine Videoanzeige wird wiedergegeben.",'ADS_INSTREAM_SKIPPABLE': "Die Videoanzeige kann übersprungen werden.",'ADS_OVERLAY_IMPRESSION': "Anzeige abgebildet",'MASTHEAD_NOTIFICATIONS_LABEL': {"other": "#\u00a0ungelesene Benachrichtigungen", "case1": "1\u00a0ungelesene Benachrichtigung", "case0": "0\u00a0ungelesene Benachrichtigungen"},'MASTHEAD_NOTIFICATIONS_COUNT_99PLUS': "99+"});    yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbE1Od2Fab25pM3BFekttekJNRnQ5dlBhVmdYZ3xBQ3Jtc0trSXQ5UGU0Y1FkbkFnUXNzWHVSQ2gza3U4a0RydnJ3U2lqNDlnNmxtcXFBUjBfOVJfVkxhaUJLV3lnRW1lY3RsRzBYWTNockdMWFNva1NaOUdQNEJObWtQQWZ0YTdsUENUMjFRTV9KY3Zkd0NTbFRMZ0h5MHdTZlo3alZGYnE2YlZieTluOWticEEwakdDQlpjeUU0aWdKYjFHaXc=",
+    'XSRF_REDIRECT_TOKEN': "FSvcg70RztMr5AZOBNffCjQyR7J8MTQzNjAyNzM2N0AxNDM1OTQwOTY3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+
+  yt.setConfig('FEED_PRIVACY_CSS_URL', "\/\/s.ytimg.com\/yts\/cssbin\/www-feedprivacydialog-vfl0uADu6.css");
+
+  yt.setConfig('FEED_PRIVACY_LIGHTBOX_ENABLED', true);
+yt.setConfig({'SBOX_JS_URL': "\/\/s.ytimg.com\/yts\/jsbin\/www-searchbox-vflhdITox\/www-searchbox.js",'SBOX_SETTINGS': {"REQUEST_DOMAIN":"de","IS_FUSION":true,"PSUGGEST_TOKEN":null,"REQUEST_LANGUAGE":"de","HAS_ON_SCREEN_KEYBOARD":false,"SESSION_INDEX":null,"EXPERIMENT_ID":-1,"EXPERIMENT_STR":"","PQ":"nadal federer"},'SBOX_LABELS': {"SUGGESTION_DISMISS_LABEL":"Löschen","SUGGESTION_DISMISSED_LABEL":"Vorschlag abgelehnt"}});  yt.setConfig({
+    'YPC_LOADER_JS': "\/\/s.ytimg.com\/yts\/jsbin\/www-ypc-vflDQ15eR\/www-ypc.js",
+    'YPC_LOADER_CSS': "\/\/s.ytimg.com\/yts\/cssbin\/www-ypc-vflXCFUeG.css",
+    'YPC_SIGNIN_URL': "https:\/\/accounts.google.com\/ServiceLogin?uilel=3\u0026hl=de\u0026service=youtube\u0026passive=true\u0026continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Fhl%3Dde%26app%3Ddesktop%26action_handle_signin%3Dtrue%26next%3D%252F",
+    'DBLCLK_ADVERTISER_ID': "2542116",
+    'DBLCLK_YPC_ACTIVITY_GROUP': "youtu444",
+    'SUBSCRIPTION_URL': "\/subscription_ajax",
+    'YPC_SWITCH_URL': "\/signin?feature=purchases\u0026skip_identity_prompt=True\u0026action_handle_signin=true\u0026next=%2F",
+    'YPC_GB_LANGUAGE': "de_DE",
+    'YPC_GB_URL': "https:\/\/checkout.google.com\/inapp\/lib\/buy.js",
+    'YPC_TRANSACTION_URL': "\/transaction_handler",
+    'YPC_SUBSCRIPTION_URL': "\/ypc_subscription_ajax",
+    'YPC_POST_PURCHASE_URL': "\/ypc_post_purchase_ajax"
+  });
+  yt.setMsg({
+    'YPC_OFFER_OVERLAY': "  \n",
+    'YPC_UNSUBSCRIBE_OVERLAY': "  \n"
+  });
+  yt.setConfig('GOOGLE_HELP_CONTEXT', "search_results");
+ytcsi.setSpan('st', 350);yt.setConfig({'CSI_SERVICE_NAME': "youtube",'TIMING_ACTION': "results",'TIMING_INFO': {"yt_lt":"cold","ei":"Z7iWVdSNAuW6iQa6-IHQCg","yt_err":0,"e":"901816,9407141,9407642,9408142,9408212,9408420,9408710,9409218,9410705,9412928,9415469,9416126,9416293,9416729,9417116,952640","yt_li":0,"yt_spf":0}});  yt.setConfig({
+    'XSRF_TOKEN': "QUFFLUhqbE1Od2Fab25pM3BFekttekJNRnQ5dlBhVmdYZ3xBQ3Jtc0trSXQ5UGU0Y1FkbkFnUXNzWHVSQ2gza3U4a0RydnJ3U2lqNDlnNmxtcXFBUjBfOVJfVkxhaUJLV3lnRW1lY3RsRzBYWTNockdMWFNva1NaOUdQNEJObWtQQWZ0YTdsUENUMjFRTV9KY3Zkd0NTbFRMZ0h5MHdTZlo3alZGYnE2YlZieTluOWticEEwakdDQlpjeUU0aWdKYjFHaXc=",
+    'XSRF_REDIRECT_TOKEN': "FSvcg70RztMr5AZOBNffCjQyR7J8MTQzNjAyNzM2N0AxNDM1OTQwOTY3",
+    'XSRF_FIELD_NAME': "session_token"
+  });
+  yt.setConfig('THUMB_DELAY_LOAD_BUFFER', 0);
+if (window.ytcsi) {window.ytcsi.tick("jl", null, '');}</script>
+</body></html>
+
